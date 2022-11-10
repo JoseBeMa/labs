@@ -1,5 +1,5 @@
 #imgback {
-    text-align: center;
+    align-items: center;
     font-size: 50px;
     font-weight: 30px;
     color: white;
@@ -8,8 +8,8 @@
     /* height: 100px; */
     background-repeat: no-repeat;
     background-size: cover;
-
-
+    display: flex;
+    justify-content: center;
 }
 
 body {
@@ -21,4 +21,16 @@ body {
     padding: 10px;
 }
 
-.imgrcp {}
+.main {
+    max-width: 700px;
+    margin: 30px auto;
+}
+
+.main img {
+    width: 300px;
+}
+
+.imgcontainer {
+    display: flex;
+    justify-content: center;
+}
