@@ -1,0 +1,24 @@
+#imgback {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 30px;
+    color: white;
+    background-image: url(..//images/apple-pie.jpg);
+    padding: 400px;
+    /* height: 100px; */
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#applegr p {
+    text-align: justify;
+    padding: 10px;
+}
+
+.imgrcp {}
