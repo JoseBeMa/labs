@@ -10,6 +10,9 @@
     background-size: cover;
     display: flex;
     justify-content: center;
+
+    /* background-position: center center; */
+    /* align-items: center; */
 }
 
 body {
